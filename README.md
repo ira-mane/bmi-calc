@@ -9,7 +9,9 @@ Clear display of BMI category (Underweight, Normal weight, Overweight, Obesity)
 
 # Technologies Used
 HTML
+
 CSS
+
 JavaScript
 
 # Installation
@@ -26,6 +28,15 @@ JavaScript
 2. Enter your weight and height in the provided input fields.
 3. Click the “Calculate” button to see your BMI and weight category.
 
-# Output
-![image](https://github.com/user-attachments/assets/b8ba8082-6332-4dd4-85d1-d850b1efa004)
+# Working Link
 
+https://ira-mane.github.io/bmi-calc/
+
+# Output
+<img src="https://github.com/user-attachments/assets/b8ba8082-6332-4dd4-85d1-d850b1efa004" width="300" height="200">
+
+# Reference 
+[1] https://www.cdc.gov/bmi/child-teen-calculator/widget.html?CDC_AAref_Val=https://www.cdc.gov/healthyweight/bmi/calculator.html
+
+# Formula Used
+BMI = Weight divide by Square of Height
