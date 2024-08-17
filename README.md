@@ -18,7 +18,8 @@ JavaScript
 ```git clone https://github.com/yourusername/bmi-calculator.git```
 
 3. Navigate to the project directory
-   ```cd bmi-calculator
+   
+ ```cd bmi-calculator```
 
 # Usage
 Open index.html in your web browser.
