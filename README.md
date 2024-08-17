@@ -17,7 +17,7 @@ JavaScript
 
 ```git clone https://github.com/yourusername/bmi-calculator.git```
 
-3. Navigate to the project directory
+2. Navigate to the project directory
    
  ```cd bmi-calculator```
 
@@ -25,4 +25,7 @@ JavaScript
 1. Open index.html in your web browser.
 2. Enter your weight and height in the provided input fields.
 3. Click the “Calculate” button to see your BMI and weight category.
+
+# Output
+![image](https://github.com/user-attachments/assets/b8ba8082-6332-4dd4-85d1-d850b1efa004)
 
