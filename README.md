@@ -33,7 +33,7 @@ JavaScript
 https://ira-mane.github.io/bmi-calc/
 
 # Output
-<img src="https://github.com/user-attachments/assets/b8ba8082-6332-4dd4-85d1-d850b1efa004" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/b8ba8082-6332-4dd4-85d1-d850b1efa004" width="300" height="500">
 
 # Reference 
 [1] https://www.cdc.gov/bmi/child-teen-calculator/widget.html?CDC_AAref_Val=https://www.cdc.gov/healthyweight/bmi/calculator.html
