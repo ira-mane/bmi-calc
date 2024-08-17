@@ -14,9 +14,10 @@ JavaScript
 
 # Installation
 1. Clone the Repository
-   ```git clone https://github.com/yourusername/bmi-calculator.git
 
-2. Navigate to the project directory
+```git clone https://github.com/yourusername/bmi-calculator.git```
+
+3. Navigate to the project directory
    ```cd bmi-calculator
 
 # Usage
