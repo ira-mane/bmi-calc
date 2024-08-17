@@ -22,7 +22,7 @@ JavaScript
  ```cd bmi-calculator```
 
 # Usage
-Open index.html in your web browser.
-Enter your weight and height in the provided input fields.
-Click the “Calculate” button to see your BMI and weight category.
+1. Open index.html in your web browser.
+2. Enter your weight and height in the provided input fields.
+3. Click the “Calculate” button to see your BMI and weight category.
 
