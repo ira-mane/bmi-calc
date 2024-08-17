@@ -9,5 +9,6 @@
 6. Using standardized tools like GitHub for code sharing and automation.
 7. Making sure the code is readable.
 8. Adding comments in the code so that it become easier for people to understand how the code is written ,what function is used etc.
+9. Adding Guideline to how to run code on local machine.
    
 These steps ensure that any work is reproducible.
